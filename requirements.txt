@@ -1,4 +1,4 @@
---find-links=https://girder.github.io/large_image_wheels GDAL
+--find-links=https://drive.google.com/file/d/15LcnO4iJLjwrsBM8p49zmeOEiNLIFXIZ/view?usp=sharing
 geemap
 geopandas
 jupyter-server-proxy
